@@ -12,5 +12,5 @@
 Gmail - tkonortov@gmail.com
 
  ![image](https://user-images.githubusercontent.com/67896736/155846426-00ecd086-cb65-4e04-ba3b-a9dcbddbab3c.png)
-Youtube channel(https://youtube.com/channel/UCV3s2Rs3nAao-BjxNZaCWfQ)
+[Youtube channel](https://youtube.com/channel/UCV3s2Rs3nAao-BjxNZaCWfQ)
     

@@ -1,6 +1,6 @@
  👋Hey, my name is Tal konortov.I'm an software developer
  
- 🔭 I’m currently working in Siemens as a Software developer intern 
+ 🌱 I’m currently working in Siemens as a Software developer intern 
  
  👀 I’m interested in computer vision, deep learning , AI models and communication
  

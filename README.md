@@ -1,4 +1,4 @@
- 👋Hey, my name is Tal konortov.I'm an software developer
+ 👋Hey, my name is Tal konortov.I'm a software developer
  
  🌱 I’m currently working in Siemens as a Software developer intern 
  
